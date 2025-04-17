@@ -3,6 +3,11 @@ Sistema para que centralice y gestione la información  relacionada con los lote
 
 ## Miembros del Equipo
 
+**Nombre:** Nicolás Pérez  
+**Legajo:** 33177 
+**Alias de Slack:** Nicolas Agustin Perez
+**Perfil GitHub:** [https://github.com/Nicoperez04](https://github.com/Nicoperez04)
+
 **Nombre Completo:** Agostina Pascucci
 **Legajo:** 33347 
 **Alias de slack:** Agostina Pascucci
