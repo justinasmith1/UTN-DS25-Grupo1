@@ -2,3 +2,7 @@
 Sistema para que centralice y gestione la información  relacionada con los lotes y propietarios del Club de Campo La Federala, con los  fines  de  ser  la  herramienta principal  del  club  y  como  servicio  de  venta  para  las  inmobiliarias asociadas.
 
 ## Miembros del Equipo
+**Nombre:** Agustina Egüen 
+**Legajo:** 33191
+**Alias de Slack:** Agustina Egüen
+**Perfil GitHub:** [https://github.com/aguseguen](https://github.com/aguseguen)
