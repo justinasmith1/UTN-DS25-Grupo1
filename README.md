@@ -5,6 +5,6 @@ Sistema para que centralice y gestione la información  relacionada con los lote
 
 
 **Nombre:** Nicolás Pérez  
-  **Legajo:** 33177 
-  **Alias de Slack:** Nicolas Agustin Perez
-  **Perfil GitHub:** [https://github.com/Nicoperez04](https://github.com/Nicoperez04)
+**Legajo:** 33177 
+**Alias de Slack:** Nicolas Agustin Perez
+**Perfil GitHub:** [https://github.com/Nicoperez04](https://github.com/Nicoperez04)
