@@ -3,6 +3,11 @@ Sistema para que centralice y gestione la información  relacionada con los lote
 
 ## Miembros del Equipo
 
+**Nombre Completo:** Nicolás Pérez  
+**Legajo:** 33177 
+**Alias de Slack:** Nicolas Agustin Perez
+**Perfil GitHub:** [https://github.com/Nicoperez04](https://github.com/Nicoperez04)
+
 **Nombre Completo:** Agostina Pascucci
 **Legajo:** 33347 
 **Alias de slack:** Agostina Pascucci
@@ -11,12 +16,17 @@ Sistema para que centralice y gestione la información  relacionada con los lote
 **Nombre Completo:** Santiago Talavera
 **Legajo:** 33167
 **Alias de slack:** SantiTalavera
-**Perfil github:** [https://github.com/SantiTalavera](https://github.com/SantiTalavera)
+**Perfil GitHub:** [https://github.com/SantiTalavera](https://github.com/SantiTalavera)
 
-**Nombre:** Agustina Egüen 
+**Nombre Completo:** Agustina Egüen 
 **Legajo:** 33191
 **Alias de Slack:** Agustina Egüen
 **Perfil GitHub:** [https://github.com/aguseguen](https://github.com/aguseguen)
+
+**Nombre Completo:** Justina Smith 
+**Legajo:** 33346
+**Alias de Slack:** Justina Smith
+**Perfil GitHub:** [https://github.com/justinasmith1](https://github.com/justinasmith1)
 
 # Oportunidad de Negocio 
 Problema que resuelve: Actualmente, no existe un sistema de gestión de lotes que utilice el Club de Campo ni una base de datos. Cada miembro de la 
@@ -42,3 +52,5 @@ comunicación directa con la administración, la cual envía un listado de lotes
     d. Desarrollar una interfaz para las inmobiliarias que les permita reservar un lote disponible a la venta. 
 
     e. Incorporar filtros de búsqueda y visualización que permitan consultar lotes por estado, ubicación o características. 
+
+
