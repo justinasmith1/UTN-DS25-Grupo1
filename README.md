@@ -26,5 +26,5 @@ Sistema para que centralice y gestione la información  relacionada con los lote
 **Nombre Completo:** Justina Smith 
 **Legajo:** 33346
 **Alias de Slack:** Justina Smith
-**Perfil GitHub:** [https://github.com/justinasmith1](hhttps://github.com/justinasmith1)
+**Perfil GitHub:** [https://github.com/justinasmith1](https://github.com/justinasmith1)
 
