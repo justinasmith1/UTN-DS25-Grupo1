@@ -28,19 +28,19 @@ Sistema para que centralice y gestione la información  relacionada con los lote
 **Alias de Slack:** Justina Smith
 **Perfil GitHub:** [https://github.com/justinasmith1](https://github.com/justinasmith1)
 
-# Oportunidad de Negocio 
+## Oportunidad de Negocio 
 Problema que resuelve: Actualmente, no existe un sistema de gestión de lotes que utilice el Club de Campo ni una base de datos. Cada miembro de la 
 organización que tiene acceso a la información de los lotes la almacena y maneja por separado (utilizando Excel o Documentos propios). La información está 
 totalmente descentralizada. Además, las inmobiliarias no cuentan con un portal de consulta para saber el estado de los lotes, lo que obliga a depender de una 
 comunicación directa con la administración, la cual envía un listado de lotes disponibles y su precio a un grupo de Whatsapp semanalmente. 
 
-# Visión del Producto 
+## Visión del Producto 
 - Descripción general: Sistema de gestión de información de lotes del Club de Campo La Federala.  
 - Propuesta de valor: Ofrecemos una solución digital moderna, visual e intuitiva que centraliza la gestión de lotes del Club de Campo La Federala. A través de un 
   mapa interactivo y un sistema de información completo, simplificamos el seguimiento del estado de cada lote, optimizamos la comunicación con inmobiliarias y mejoramos la toma de decisiones comerciales como estructurales. 
 - Usuarios principales: Director, administradores, inmobiliarias asociadas, compradores, asesores, técnicos y mantenimiento. 
 
-# Objetivos del Proyecto  
+## Objetivos del Proyecto  
 - Objetivo principal: Gestionar la información de los lotes del Club de Campo La Federala.  
 - Objetivos específicos: 
     a. Centralizar en un sistema el 100% de la información de los 311 lotes y espacios comunes del club. 
