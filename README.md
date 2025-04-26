@@ -6,27 +6,27 @@ Sistema para que centralice y gestione la información  relacionada con los lote
 **Nombre Completo:** Nicolás Pérez  
 **Legajo:** 33177 
 **Alias de Slack:** Nicolas Agustin Perez
-**Perfil GitHub:** [https://github.com/Nicoperez04](https://github.com/Nicoperez04)
+**Perfil GitHub:** [Nicoperez04](https://github.com/Nicoperez04)
 
 **Nombre Completo:** Agostina Pascucci
 **Legajo:** 33347 
 **Alias de slack:** Agostina Pascucci
-**Perfil GitHub:** [https://github.com/agostinapascucci](https://github.com/agostinapascucci)
+**Perfil GitHub:** [agostinapascucci](https://github.com/agostinapascucci)
 
 **Nombre Completo:** Santiago Talavera
 **Legajo:** 33167
 **Alias de slack:** SantiTalavera
-**Perfil GitHub:** [https://github.com/SantiTalavera](https://github.com/SantiTalavera)
+**Perfil GitHub:** [SantiTalavera](https://github.com/SantiTalavera)
 
 **Nombre Completo:** Agustina Egüen 
 **Legajo:** 33191
 **Alias de Slack:** Agustina Egüen
-**Perfil GitHub:** [https://github.com/aguseguen](https://github.com/aguseguen)
+**Perfil GitHub:** [aguseguen](https://github.com/aguseguen)
 
 **Nombre Completo:** Justina Smith 
 **Legajo:** 33346
 **Alias de Slack:** Justina Smith
-**Perfil GitHub:** [https://github.com/justinasmith1](https://github.com/justinasmith1)
+**Perfil GitHub:** [justinasmith1](https://github.com/justinasmith1)
 
 ## Oportunidad de Negocio 
 Problema que resuelve: Actualmente, no existe un sistema de gestión de lotes que utilice el Club de Campo ni una base de datos. Cada miembro de la 
