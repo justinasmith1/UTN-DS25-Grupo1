@@ -20,3 +20,12 @@ Para ver cada documento clickear en el acceso directo.
     - [Documento Fase 02](https://github.com/justinasmith1/UTN-DS25-Grupo01/blob/main/Documentacion/02%20-%20Modelado%20de%20Dominio/F02-ModeladoDeDominio-Backlog.pdf)
     - [Modelo de Dominio Imagen](https://github.com/justinasmith1/UTN-DS25-Grupo01/blob/main/Documentacion/02%20-%20Modelado%20de%20Dominio/Modelo%20De%20Dominio.jpg)
     - [Modelo de Dominio EA](https://github.com/justinasmith1/UTN-DS25-Grupo01/blob/main/Documentacion/02%20-%20Modelado%20de%20Dominio/ModeloDeDominio.EAP)
+
+## Fase 03 - Elaboracion del Product Backlog
+- [**Carpeta 03: elaboracion del product backlog**]()
+    - [Documento Fase 03]()
+    - [Modelo de Dominio Imagen]()
+    - [Estados de un lote imagen]()
+    - [Proceso de venta]()
+    - [Proceso de reserva]()
+    - [Proceso de construccion]()
