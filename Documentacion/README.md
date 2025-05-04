@@ -23,11 +23,11 @@ Para ver cada documento clickear en el acceso directo.
 
 ## Fase 03 - Elaboracion del Product Backlog
 - [**Carpeta 03: elaboracion del product backlog**]()
-    - [Documento Fase 03]()
-    - [Modelo de Dominio Imagen](https://github.com/justinasmith1/UTN-DS25-Grupo01/blob/main/Documentacion/03%20-%20Elaboracion%20del%20Product%20Backlog/F03-ElaboracionDelProductBacklog.pdf)
+    - [Documento Fase 03](https://github.com/justinasmith1/UTN-DS25-Grupo01/blob/main/Documentacion/03%20-%20Elaboracion%20del%20Product%20Backlog/F03-ElaboracionDelProductBacklog.pdf)
+    - [Modelo de Dominio Imagen]()
     - [Estados de un lote imagen](https://github.com/justinasmith1/UTN-DS25-Grupo01/blob/main/Documentacion/03%20-%20Elaboracion%20del%20Product%20Backlog/F03-3.3-DiagramaEstados-EstadosLote.bmp)
     - [Estados de un lote vendido imagen](https://github.com/justinasmith1/UTN-DS25-Grupo01/blob/main/Documentacion/03%20-%20Elaboracion%20del%20Product%20Backlog/F03-3.3-DiagramaEstados-Vendido.bmp)
-    - [Estados de un plano interno de un lote](https://github.com/justinasmith1/UTN-DS25-Grupo01/blob/main/Documentacion/03%20-%20Elaboracion%20del%20Product%20Backlog/F03-3.3-DiagramaEstados-Vendido.bmp)
+    - [Estados de un plano interno de un lote](https://github.com/justinasmith1/UTN-DS25-Grupo01/blob/91736e080fad84c77bc74274d695367dcbd54648/Documentacion/03%20-%20Elaboracion%20del%20Product%20Backlog/F03-3.3-DiagramaEstados-PlanoInterno.bmp)
     - [Proceso de venta]()
     - [Proceso de reserva]()
     - [Proceso de construccion](https://github.com/justinasmith1/UTN-DS25-Grupo01/blob/main/Documentacion/03%20-%20Elaboracion%20del%20Product%20Backlog/F03-3.3-DiagramaActividades-ProcesoContruccion.png)
