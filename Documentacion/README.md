@@ -30,4 +30,4 @@ Para ver cada documento clickear en el acceso directo.
     - [Estados de un plano interno de un lote](https://github.com/justinasmith1/UTN-DS25-Grupo01/blob/main/Documentacion/03%20-%20Elaboracion%20del%20Product%20Backlog/F03-3.3-DiagramaEstados-Vendido.bmp)
     - [Proceso de venta]()
     - [Proceso de reserva]()
-    - [Proceso de construccion]()
+    - [Proceso de construccion](https://github.com/justinasmith1/UTN-DS25-Grupo01/blob/main/Documentacion/03%20-%20Elaboracion%20del%20Product%20Backlog/F03-3.3-DiagramaActividades-ProcesoContruccion.png)
