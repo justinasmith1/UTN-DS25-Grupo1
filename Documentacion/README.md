@@ -24,7 +24,7 @@ Para ver cada documento clickear en el acceso directo.
 ## Fase 03 - Elaboracion del Product Backlog
 - [**Carpeta 03: elaboracion del product backlog**]()
     - [Documento Fase 03]()
-    - [Modelo de Dominio Imagen]()
+    - [Modelo de Dominio Imagen](https://github.com/justinasmith1/UTN-DS25-Grupo01/blob/main/Documentacion/03%20-%20Elaboracion%20del%20Product%20Backlog/F03-ElaboracionDelProductBacklog.pdf)
     - [Estados de un lote imagen](https://github.com/justinasmith1/UTN-DS25-Grupo01/blob/main/Documentacion/03%20-%20Elaboracion%20del%20Product%20Backlog/F03-3.3-DiagramaEstados-EstadosLote.bmp)
     - [Estados de un lote vendido imagen](https://github.com/justinasmith1/UTN-DS25-Grupo01/blob/main/Documentacion/03%20-%20Elaboracion%20del%20Product%20Backlog/F03-3.3-DiagramaEstados-Vendido.bmp)
     - [Estados de un plano interno de un lote](https://github.com/justinasmith1/UTN-DS25-Grupo01/blob/main/Documentacion/03%20-%20Elaboracion%20del%20Product%20Backlog/F03-3.3-DiagramaEstados-Vendido.bmp)
