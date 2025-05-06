@@ -31,3 +31,11 @@ Para ver cada documento clickear en el acceso directo.
     - [Proceso de venta](https://github.com/justinasmith1/UTN-DS25-Grupo01/blob/88d6500098b3c5871f4e51650ef7cf3680e6d7a3/Documentacion/03%20-%20Elaboracion%20del%20Product%20Backlog/F03-3.3-ProcesoVenta.png)
     - [Proceso de reserva](https://github.com/justinasmith1/UTN-DS25-Grupo01/blob/88d6500098b3c5871f4e51650ef7cf3680e6d7a3/Documentacion/03%20-%20Elaboracion%20del%20Product%20Backlog/F03-3.3-ProcesoReserva.png)
     - [Proceso de construccion](https://github.com/justinasmith1/UTN-DS25-Grupo01/blob/main/Documentacion/03%20-%20Elaboracion%20del%20Product%20Backlog/F03-3.3-DiagramaActividades-ProcesoContruccion.png)
+
+## Fase 04 - Validación y Trazabilidad
+- [**Carpeta 04: Validación y Trazabilidad**]()
+    - [Documento Fase 03]()
+
+## Fase 06 - UX/UI
+- [**Carpeta 06: UX/UI**]()
+    - [Documento Fase 06]()
