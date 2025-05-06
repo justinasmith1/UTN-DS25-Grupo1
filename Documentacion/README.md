@@ -33,9 +33,9 @@ Para ver cada documento clickear en el acceso directo.
     - [Proceso de construccion](https://github.com/justinasmith1/UTN-DS25-Grupo01/blob/main/Documentacion/03%20-%20Elaboracion%20del%20Product%20Backlog/F03-3.3-DiagramaActividades-ProcesoContruccion.png)
 
 ## Fase 04 - Validación y Trazabilidad
-- [**Carpeta 04: Validación y Trazabilidad**]()
+- [**Carpeta 04: Validación y Trazabilidad**](https://github.com/justinasmith1/UTN-DS25-Grupo01/tree/main/Documentacion/04%20-%20Validaci%C3%B3n%20y%20Trazabilidad)
     - [Documento Fase 03]()
 
 ## Fase 06 - UX/UI
-- [**Carpeta 06: UX/UI**]()
+- [**Carpeta 06: UX/UI**](https://github.com/justinasmith1/UTN-DS25-Grupo01/tree/main/Documentacion/06%20-%20UX-UI)
     - [Documento Fase 06]()
